@@ -7,7 +7,6 @@
 
 import Foundation
 
-
 /// Structure is being used to build the API request
 struct URLRequestBuilder {
 
